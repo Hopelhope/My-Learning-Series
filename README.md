@@ -16,3 +16,4 @@ I have learnt quite a number of things ranging from Excel and Power BI and now t
 - Power BI (for creating a report)
 - MS Power Point (for presentation)
 - SQL (for Querying and Analysis)
+- Python
